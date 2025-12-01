@@ -10,7 +10,7 @@ function Dockerss() {
          suscipit magni distinctio illum voluptatibus
           a corporis porro exercitationem dignissimos
            ad cum, soluta quibusdam eos!</p>
-           <h1>hello chunni kuttahhhhhh</h1>
+           <h1>hello chunni kuttaahhhhhh</h1>
     </div>
   )
 }
